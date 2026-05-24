@@ -22,7 +22,7 @@ To guide the analysis, I focused on four main questions:
 <p align="center">
 <img
 
-    src="https://github.com/ghadeernaamani20-hash/Data-Science-Blog/blob/main/Graphs/Distribution%20of%20Patient%20Satisfaction%20Scores.png%22
+    src="https://github.com/ghadeernaamani20-hash/Data-Science Blog/blob/main/Graphs/Distribution%20of%20Patient%20Satisfaction%20Scores.png"
 
     alt="Healthcare Facility"
 
