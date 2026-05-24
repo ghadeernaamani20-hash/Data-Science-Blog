@@ -76,7 +76,9 @@ This does not necessarily mean that increasing response rate causes better satis
 
 ## 4. What Factors Drive Patient Satisfaction?
 
-![Top Features](Graphs/Top Features Influencing Satisfaction.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ghadeernaamani20-hash/Data-Science-Blog/main/Graphs/Actual%20vs%20Predicted%20Satisfaction.png" width="500">
+</p>
 
 The most important factors are clearly related to **communication**, especially from nurses.
 
