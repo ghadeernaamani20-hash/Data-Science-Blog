@@ -39,7 +39,11 @@ The distribution of patient satisfaction scores is fairly balanced. Most hospita
 
 ## 2. Do More Surveys Lead to Higher Satisfaction?
 
-![Surveys](Graphs/Surveys vs Satisfaction.png)
+
+<p align="center">
+  https://raw.githubusercontent.com/ghadeernaamani20-hash/Data-Science-Blog/main/Graphs/Surveys%20vs%20Satisfaction.png
+</p>
+
 
 At first, it might seem logical that hospitals collecting more surveys would have happier patients. However, the data tells a different story.
 
