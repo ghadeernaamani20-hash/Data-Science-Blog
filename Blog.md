@@ -77,8 +77,9 @@ This does not necessarily mean that increasing response rate causes better satis
 ## 4. What Factors Drive Patient Satisfaction?
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ghadeernaamani20-hash/Data-Science-Blog/main/Graphs/Actual%20vs%20Predicted%20Satisfaction.png" width="500">
+  <img src="https://raw.githubusercontent.com/ghadeernaamani20-hash/Data-Science-Blog/main/Graphs/Top%20Features%20Influencing%20Satisfaction.png" width="500">
 </p>
+
 
 The most important factors are clearly related to **communication**, especially from nurses.
 
@@ -98,7 +99,9 @@ Hospitals that perform well in communication also perform well overall.
 
 I built a machine learning model to predict satisfaction scores based on hospital characteristics.
 
-![Model](Graphs/Actual vs Predicted Satisfaction.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ghadeernaamani20-hash/Data-Science-Blog/main/Graphs/Actual%20vs%20Predicted%20Satisfaction.png" width="500">
+</p>
 
 ###  Model Results
 - The model explains about **74% of satisfaction variation**
