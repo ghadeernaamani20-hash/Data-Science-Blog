@@ -129,7 +129,7 @@ The biggest lesson from this analysis is simple:
  **Patient satisfaction is driven more by human interaction than by numbers.**
 
 - More surveys don’t increase satisfaction  
-- Response rate helps—but may reflect existing quality  
+- Response rate helps, but may reflect existing quality  
 - **Communication is the key factor**  
 
 Hospitals that focus on **listening, explaining, and respecting patients** are the ones that achieve the highest satisfaction.
