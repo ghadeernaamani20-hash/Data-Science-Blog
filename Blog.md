@@ -21,12 +21,11 @@ To guide the analysis, I focused on four main questions:
 
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/ghadeernaamani20-hash/Data-Science-Blog/main/Graphs/Distribution%20of%20Patient%20Satisfaction%20Scores.png"
-    alt="Healthcare Facility"
-    width="450"
+ <img src="https://raw.githubusercontent.com/ghadeernaamani20-hash/Data-Science-Blog/main/Graphs/Distribution%20of%20Patient%20Satisfaction%20Scores.png" width="400"
   >
 </p>
+
+
 
 
 https://github.com/ghadeernaamani20-hash/Data-Science-Blog/blob/main/Graphs/Distribution%20of%20Patient%20Satisfaction%20Scores.png?raw=true
