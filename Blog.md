@@ -1,6 +1,6 @@
 # What Makes Patients Happy in Hospitals? A Data Story
 
-Hospitals collect thousands of patient surveys every year — but what really drives patient satisfaction? Is it the number of surveys collected, the response rate, or something deeper?
+Hospitals collect thousands of patient surveys every year, but what really drives patient satisfaction? Is it the number of surveys collected, the response rate, or something deeper?
 
 In this project, I explored hospital survey data (HCAHPS) to uncover the key factors that influence how patients feel about their care.
 
@@ -56,7 +56,10 @@ At first, it might seem logical that hospitals collecting more surveys would hav
 
 ##  3. Does Response Rate Matter?
 
-![Response Rate](Graphs/Response Rate vs Satisfaction.png)
+<p align="center">
+  <img src=" https://raw.githubusercontent.com/ghadeernaamani20-hash/Data-Science-Blog/main/Graphs/Response%20Rate%20vs%20Satisfaction.png" width="500">
+</p>
+
 
 This is where things get interesting.
 
@@ -135,4 +138,4 @@ Improving healthcare doesn’t always require new technology or more data. Somet
  Better communication between people.
 
 ---
-``
+
