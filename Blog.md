@@ -19,13 +19,15 @@ To guide the analysis, I focused on four main questions:
 
 ## 1. How Satisfied Are Patients Overall?
 
+
 <p align="center">
   <img
-    src="https://github.com/ghadeernaamani20-hash/Data-Science-Blog/blob/main/Graphs/Distribution%20of%20Patient%20Satisfaction%20Scores.png"
+    src="https://raw.githubusercontent.com/ghadeernaamani20-hash/Data-Science-Blog/main/Graphs/Distribution%20of%20Patient%20Satisfaction%20Scores.png"
     alt="Healthcare Facility"
     width="450"
   >
 </p>
+
 
 https://github.com/ghadeernaamani20-hash/Data-Science-Blog/blob/main/Graphs/Distribution%20of%20Patient%20Satisfaction%20Scores.png?raw=true
 
