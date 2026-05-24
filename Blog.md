@@ -20,16 +20,13 @@ To guide the analysis, I focused on four main questions:
 ## 1. How Satisfied Are Patients Overall?
 
 <p align="center">
-<img
-
-    src="https://github.com/ghadeernaamani20-hash/Data-Science Blog/blob/main/Graphs/Distribution%20of%20Patient%20Satisfaction%20Scores.png"
-
+  <img
+    src="https://raw.githubusercontent.com/ghadeernaamani20-hash/Data-Science%20Blog/main/Graphs/Distribution%20of%20Patient%20Satisfaction%20Scores.png"
     alt="Healthcare Facility"
-
     width="450"
->
+  >
 </p>
- 
+
 
 The distribution of patient satisfaction scores is fairly balanced. Most hospitals fall between **65% and 85% satisfaction**, with fewer hospitals at the extremes.
 
