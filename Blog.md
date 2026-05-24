@@ -28,9 +28,6 @@ To guide the analysis, I focused on four main questions:
 
 
 
-https://github.com/ghadeernaamani20-hash/Data-Science-Blog/blob/main/Graphs/Distribution%20of%20Patient%20Satisfaction%20Scores.png?raw=true
-
-
 The distribution of patient satisfaction scores is fairly balanced. Most hospitals fall between **65% and 85% satisfaction**, with fewer hospitals at the extremes.
 
 ### What This Means
