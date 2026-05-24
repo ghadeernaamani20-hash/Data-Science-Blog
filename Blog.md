@@ -57,7 +57,7 @@ At first, it might seem logical that hospitals collecting more surveys would hav
 ##  3. Does Response Rate Matter?
 
 <p align="center">
-  <img src=" https://raw.githubusercontent.com/ghadeernaamani20-hash/Data-Science-Blog/main/Graphs/Response%20Rate%20vs%20Satisfaction.png" width="500">
+  <img src="https://raw.githubusercontent.com/ghadeernaamani20-hash/Data-Science-Blog/main/Graphs/Response%20Rate%20vs%20Satisfaction.png" width="500">
 </p>
 
 
