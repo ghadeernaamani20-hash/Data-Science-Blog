@@ -1,5 +1,13 @@
 # What Makes Patients Happy in Hospitals? A Data Story
 
+
+<p align="center">
+  <img src="https://tse1.mm.bing.net/th/id/OIP.FKl21EgQJZwGA4MwIBGYrAHaE8?cb=thfvnextfalcon&rs=1&pid=ImgDetMain&o=7&rm=3" width="600">
+</p>
+
+
+
+
 Hospitals collect thousands of patient surveys every year, but what really drives patient satisfaction? Is it the number of surveys collected, the response rate, or something deeper?
 
 In this project, I explored hospital survey data (HCAHPS) to uncover the key factors that influence how patients feel about their care.
